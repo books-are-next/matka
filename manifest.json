@@ -1,0 +1,330 @@
+{
+  "author": "Karel Čapek",
+  "contenttype": "drama",
+  "edition": "beletrie",
+  "identifier": "capek-matka-16130e5",
+  "languagecode": "cs",
+  "modified": "2022-02-28T12:54:02.662Z",
+  "publisher": "Městská knihovna v Praze",
+  "publishershort": "mkp",
+  "title": "Matka",
+  "revision": "16130e5",
+  "generatedAt": {
+    "date": "Mon Feb 28 2022 13:13:04 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1646053984287
+  },
+  "documents": [
+    {
+      "title": "Matka",
+      "file": "matka_001.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "chapter",
+      "order": 0,
+      "prev": null,
+      "next": "matka_002.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Matka",
+      "file": "matka_002.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "chapter",
+      "order": 1,
+      "prev": "matka_001.html",
+      "next": "matka_003.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Matka",
+      "file": "matka_003.html",
+      "words": 3,
+      "chars": 16,
+      "ideas": 2,
+      "role": "chapter",
+      "order": 2,
+      "prev": "matka_002.html",
+      "next": "matka_004.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Matka",
+      "file": "matka_004.html",
+      "words": 79,
+      "chars": 531,
+      "ideas": 7,
+      "role": "chapter",
+      "order": 3,
+      "prev": "matka_003.html",
+      "next": "matka_005.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Předmluva • Matka",
+      "file": "matka_005.html",
+      "words": 141,
+      "chars": 931,
+      "ideas": 6,
+      "role": "chapter",
+      "order": 4,
+      "prev": "matka_004.html",
+      "next": "matka_006.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Předmluva",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Matka",
+      "file": "matka_006.html",
+      "words": 5,
+      "chars": 26,
+      "ideas": 2,
+      "role": "chapter",
+      "order": 5,
+      "prev": "matka_005.html",
+      "next": "matka_007.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Matka",
+      "file": "matka_007.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "chapter",
+      "order": 6,
+      "prev": "matka_006.html",
+      "next": "matka_008.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "OSOBY • Matka",
+      "file": "matka_008.html",
+      "words": 18,
+      "chars": 91,
+      "ideas": 11,
+      "role": "chapter",
+      "order": 7,
+      "prev": "matka_007.html",
+      "next": "matka_009.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "OSOBY",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "I • Matka",
+      "file": "matka_009.html",
+      "words": 6799,
+      "chars": 37113,
+      "ideas": 394,
+      "role": "chapter",
+      "order": 8,
+      "prev": "matka_008.html",
+      "next": "matka_010.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "I",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "II • Matka",
+      "file": "matka_010.html",
+      "words": 5227,
+      "chars": 28791,
+      "ideas": 330,
+      "role": "chapter",
+      "order": 9,
+      "prev": "matka_009.html",
+      "next": "matka_011.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "II",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "III • Matka",
+      "file": "matka_011.html",
+      "words": 6344,
+      "chars": 34842,
+      "ideas": 299,
+      "role": "chapter",
+      "order": 10,
+      "prev": "matka_010.html",
+      "next": "matka_012.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "III",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Ediční poznámka • Matka",
+      "file": "matka_012.html",
+      "words": 77,
+      "chars": 606,
+      "ideas": 4,
+      "role": "chapter",
+      "order": 11,
+      "prev": "matka_011.html",
+      "next": "matka_013.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Ediční poznámka",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Život\na doba spisovatele\nKarla Čapka v datech • Matka",
+      "file": "matka_013.html",
+      "words": 293,
+      "chars": 2024,
+      "ideas": 33,
+      "role": "chapter",
+      "order": 12,
+      "prev": "matka_012.html",
+      "next": "matka_014.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Život\na doba spisovatele\nKarla Čapka v datech",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "První vydání knih Karla Čapka • Matka",
+      "file": "matka_014.html",
+      "words": 233,
+      "chars": 1155,
+      "ideas": 67,
+      "role": "chapter",
+      "order": 13,
+      "prev": "matka_013.html",
+      "next": "matka_015.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "První vydání knih Karla Čapka",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Matka",
+      "file": "matka_015.html",
+      "words": 47,
+      "chars": 308,
+      "ideas": 13,
+      "role": "chapter",
+      "order": 14,
+      "prev": "matka_014.html",
+      "next": null,
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    }
+  ],
+  "totals": {
+    "all": {
+      "words": 19272,
+      "chars": 106466,
+      "ideas": 1173
+    },
+    "chapters": {
+      "words": 19266,
+      "chars": 106434,
+      "ideas": 1168
+    }
+  }
+}
