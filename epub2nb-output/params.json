@@ -34,14 +34,15 @@
       {
         "isSection": true,
         "id": "section-1",
+        "listType": "plain",
         "children": [
           {
             "filename": "matka_001.md",
             "xhtml": "matka_001.html",
             "id": 0,
-            "role": "chapter",
+            "role": "cover",
             "listType": "plain",
-            "inToc": true,
+            "inToc": false,
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
@@ -51,9 +52,9 @@
             "filename": "matka_002.md",
             "xhtml": "matka_002.html",
             "id": 1,
-            "role": "chapter",
+            "role": "break",
             "listType": "plain",
-            "inToc": true,
+            "inToc": false,
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
@@ -63,9 +64,9 @@
             "filename": "matka_003.md",
             "xhtml": "matka_003.html",
             "id": 2,
-            "role": "chapter",
+            "role": "colophon",
             "listType": "plain",
-            "inToc": true,
+            "inToc": false,
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
@@ -75,9 +76,9 @@
             "filename": "matka_004.md",
             "xhtml": "matka_004.html",
             "id": 3,
-            "role": "chapter",
+            "role": "colophon",
             "listType": "plain",
-            "inToc": true,
+            "inToc": false,
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
@@ -93,7 +94,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Předmluva"
           },
           {
             "filename": "matka_006.md",
@@ -104,8 +106,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "children": []
+            "hiddenTitle": true,
+            "children": [],
+            "title": "MATKA"
           },
           {
             "filename": "matka_007.md",
@@ -116,8 +119,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "children": []
+            "hiddenTitle": true,
+            "children": [],
+            "title": "Tato hra, k níž..."
           },
           {
             "filename": "matka_008.md",
@@ -129,7 +133,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "OSOBY"
           },
           {
             "filename": "matka_009.md",
@@ -141,7 +146,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "I"
           },
           {
             "filename": "matka_010.md",
@@ -153,7 +159,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "II"
           },
           {
             "filename": "matka_011.md",
@@ -165,7 +172,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "III"
           },
           {
             "filename": "matka_012.md",
@@ -177,7 +185,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Ediční poznámka"
           },
           {
             "filename": "matka_013.md",
@@ -189,7 +198,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Život\na doba spisovatele\nKarla Čapka v datech"
           },
           {
             "filename": "matka_014.md",
@@ -201,15 +211,16 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "První vydání knih Karla Čapka"
           },
           {
             "filename": "matka_015.md",
             "xhtml": "matka_015.html",
             "id": 14,
-            "role": "chapter",
+            "role": "colophon",
             "listType": "plain",
-            "inToc": true,
+            "inToc": false,
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
@@ -226,7 +237,7 @@
       "identifier": "99d3342b-6d14-4b1d-9f79-1a216ff5c659",
       "author": "Karel Čapek",
       "publisher": "Městská knihovna v Praze",
-      "modified": "2022-02-28T13:12:06.708Z"
+      "modified": "2022-02-28T13:18:44.953Z"
     },
     "chapters": [
       {
@@ -393,6 +404,6 @@
       "user": "books-are-next",
       "repo": "matka"
     },
-    "generatedAt": 1646053927470
+    "generatedAt": 1646054325616
   }
 }
