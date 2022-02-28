@@ -1,1 +1,177 @@
-{}
+{
+  "epub": {
+    "metadata": {
+      "title": "Matka",
+      "identifier": "99d3342b-6d14-4b1d-9f79-1a216ff5c659",
+      "author": "Karel Čapek",
+      "publisher": "Městská knihovna v Praze",
+      "modified": "2022-02-28T12:54:02.662Z"
+    },
+    "chapters": [
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "matka_001.md",
+        "xhtml": "matka_001.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "matka_002.md",
+        "xhtml": "matka_002.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "matka_003.md",
+        "xhtml": "matka_003.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "matka_004.md",
+        "xhtml": "matka_004.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "matka_005.md",
+        "xhtml": "matka_005.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "matka_006.md",
+        "xhtml": "matka_006.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "matka_007.md",
+        "xhtml": "matka_007.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "matka_008.md",
+        "xhtml": "matka_008.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "matka_009.md",
+        "xhtml": "matka_009.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "matka_010.md",
+        "xhtml": "matka_010.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "matka_011.md",
+        "xhtml": "matka_011.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "matka_012.md",
+        "xhtml": "matka_012.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "matka_013.md",
+        "xhtml": "matka_013.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "matka_014.md",
+        "xhtml": "matka_014.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "matka_015.md",
+        "xhtml": "matka_015.html"
+      }
+    ],
+    "resources": [
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/image001.jpg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/image002.jpg"
+      },
+      {
+        "type": "image/png",
+        "href": "OEBPS/Images/image003.png"
+      },
+      {
+        "type": "text/css",
+        "href": "OEBPS/Styles/page_styles.css"
+      },
+      {
+        "type": "text/css",
+        "href": "OEBPS/Styles/stylesheet.css"
+      },
+      {
+        "type": "application/x-dtbncx+xml",
+        "href": "OEBPS/toc.ncx"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/upoutavka_eknihy.jpg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/obalka.jpg"
+      }
+    ],
+    "classes": [
+      "calibre15",
+      "calibre3",
+      "calibre4",
+      "calibre6",
+      "calibre7",
+      "calibre8",
+      "mlpdopispodpisi",
+      "mlplicencehypertext",
+      "mlplicenceobrazek",
+      "mlplicencetext",
+      "mlpobrazky",
+      "mlpprimarec",
+      "mlpscenickepoznamky",
+      "mlptext",
+      "mlptextbez1radku",
+      "mlptextbez1radku1",
+      "mlptextbez1radku2",
+      "mlptextbez1radkub",
+      "mlptextcapekseznam",
+      "mlptirazautoranazev",
+      "mlptitulkaautor",
+      "mlptitulkanazev",
+      "mlpuroven2kapitola",
+      "mlpznakkurziva11b",
+      "mlpznaktucne11b",
+      "pcalibre",
+      "pcalibre1",
+      "wordsection",
+      "wordsection1",
+      "wordsection3",
+      "wordsection4",
+      "wordsection5",
+      "wordsection6"
+    ],
+    "github": {
+      "user": "books-are-next",
+      "repo": "matka"
+    },
+    "generatedAt": 1646052843125
+  }
+}
