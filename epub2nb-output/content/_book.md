@@ -14,7 +14,7 @@ meta:
   edition: beletrie
   publisherShort: mkp
 readingOrder:
-  - matka_002.html
+  - promo.html
   - matka_005.html
   - matka_006.html
   - matka_007.html

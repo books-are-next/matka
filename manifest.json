@@ -1,22 +1,37 @@
 {
-  "author": "Karel Čapek",
-  "contenttype": "drama",
-  "edition": "beletrie",
-  "identifier": "capek-matka-2205650",
-  "languagecode": "cs",
-  "modified": "2022-02-28T12:54:02.662Z",
-  "publisher": "Městská knihovna v Praze",
-  "publishershort": "mkp",
+  "preview": {
+    "isPreview": false
+  },
   "title": "Matka",
-  "revision": "2205650",
+  "author": "Karel Čapek",
+  "publisher": "Městská knihovna v Praze",
+  "edition": "beletrie",
+  "languageCode": "cs",
+  "root": "main",
+  "identifier": "capek-matka-4267c7c",
+  "revision": "4267c7c",
+  "readingOrder": [
+    "promo.html",
+    "matka_005.html",
+    "matka_006.html",
+    "matka_007.html",
+    "matka_008.html",
+    "matka_009.html",
+    "matka_010.html",
+    "matka_011.html",
+    "matka_012.html",
+    "matka_013.html",
+    "matka_014.html",
+    "colophon.html"
+  ],
   "generatedAt": {
-    "date": "Mon Feb 28 2022 13:19:40 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1646054380978
+    "date": "Thu May 12 2022 10:39:14 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1652351954197
   },
   "documents": [
     {
-      "title": "Matka",
-      "file": "matka_002.html",
+      "title": "Městská knihovna v Praze",
+      "file": "promo.html",
       "words": 0,
       "chars": 0,
       "ideas": 0,
@@ -24,25 +39,17 @@
       "order": 0,
       "prev": null,
       "next": "matka_005.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": []
-        }
-      ]
+      "toc": []
     },
     {
-      "title": "Předmluva • Matka",
+      "title": "Předmluva",
       "file": "matka_005.html",
       "words": 141,
       "chars": 931,
       "ideas": 6,
       "role": "chapter",
       "order": 1,
-      "prev": "matka_002.html",
+      "prev": "promo.html",
       "next": "matka_006.html",
       "toc": [
         {
@@ -95,7 +102,7 @@
       ]
     },
     {
-      "title": "OSOBY • Matka",
+      "title": "OSOBY",
       "file": "matka_008.html",
       "words": 18,
       "chars": 91,
@@ -115,7 +122,7 @@
       ]
     },
     {
-      "title": "I • Matka",
+      "title": "I",
       "file": "matka_009.html",
       "words": 6799,
       "chars": 37113,
@@ -135,7 +142,7 @@
       ]
     },
     {
-      "title": "II • Matka",
+      "title": "II",
       "file": "matka_010.html",
       "words": 5227,
       "chars": 28791,
@@ -155,7 +162,7 @@
       ]
     },
     {
-      "title": "III • Matka",
+      "title": "III",
       "file": "matka_011.html",
       "words": 6344,
       "chars": 34842,
@@ -175,7 +182,7 @@
       ]
     },
     {
-      "title": "Ediční poznámka • Matka",
+      "title": "Ediční poznámka",
       "file": "matka_012.html",
       "words": 77,
       "chars": 606,
@@ -195,11 +202,11 @@
       ]
     },
     {
-      "title": "Život\na doba spisovatele\nKarla Čapka v datech • Matka",
+      "title": "Život a doba spisovatele Karla Čapka v datech",
       "file": "matka_013.html",
       "words": 293,
-      "chars": 2024,
-      "ideas": 33,
+      "chars": 2026,
+      "ideas": 31,
       "role": "chapter",
       "order": 9,
       "prev": "matka_012.html",
@@ -208,14 +215,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Život\na doba spisovatele\nKarla Čapka v datech",
+          "name": "Život a doba spisovatele Karla Čapka v datech",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "První vydání knih Karla Čapka • Matka",
+      "title": "První vydání knih Karla Čapka",
       "file": "matka_014.html",
       "words": 233,
       "chars": 1155,
@@ -235,11 +242,11 @@
       ]
     },
     {
-      "title": "Tiráž • Matka",
+      "title": "Tiráž",
       "file": "colophon.html",
-      "words": 130,
-      "chars": 860,
-      "ideas": 23,
+      "words": 102,
+      "chars": 680,
+      "ideas": 14,
       "role": "colophon",
       "order": null,
       "prev": "matka_014.html",
@@ -257,14 +264,14 @@
   ],
   "totals": {
     "all": {
-      "words": 19272,
-      "chars": 106466,
-      "ideas": 1173
+      "words": 19244,
+      "chars": 106288,
+      "ideas": 1162
     },
     "chapters": {
       "words": 19137,
-      "chars": 105579,
-      "ideas": 1146
+      "chars": 105581,
+      "ideas": 1144
     }
   }
 }

@@ -52,7 +52,7 @@
             "filename": "matka_002.md",
             "xhtml": "matka_002.html",
             "id": 1,
-            "role": "break",
+            "role": "promo",
             "listType": "plain",
             "inToc": false,
             "hungry": false,
@@ -228,8 +228,7 @@
           }
         ]
       }
-    ],
-    "replacements": []
+    ]
   },
   "epub": {
     "metadata": {
@@ -237,7 +236,7 @@
       "identifier": "99d3342b-6d14-4b1d-9f79-1a216ff5c659",
       "author": "Karel Čapek",
       "publisher": "Městská knihovna v Praze",
-      "modified": "2022-02-28T13:18:44.953Z"
+      "modified": "2017-11-12T00:00:00.000Z"
     },
     "chapters": [
       {
@@ -313,7 +312,7 @@
         "xhtml": "matka_012.html"
       },
       {
-        "titleSuggest": "Život\na doba spisovatele\nKarla Čapka v datech",
+        "titleSuggest": "Život a doba spisovatele Karla Čapka v datech",
         "subtitleSuggest": "",
         "filename": "matka_013.md",
         "xhtml": "matka_013.html"
@@ -404,6 +403,6 @@
       "user": "books-are-next",
       "repo": "matka"
     },
-    "generatedAt": 1646054325616
+    "generatedAt": 1652351450500
   }
 }
