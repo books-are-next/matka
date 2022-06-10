@@ -3,6 +3,8 @@ title: II
 contentType: drama
 ---
 
+<section>
+
 _Týž pokoj, ale přibyla rozhlasová skřínka._
 
 _(Toni klečí u rozhlasové skřínky a točí knoflíkem. Ozve se vojenský pochod. Toni s grimasou nechuti točí dál. Ozve se Hlasatel.)_
@@ -660,3 +662,5 @@ _(Ve dveřích Toni.)_
 **TONI**: Šel **tam**, mami. Vzal pušku a řekl: Toni,… řekni mamince, ať se nezlobí, že ji tu musím nechat…, ale já **musím** jít!
 
 _(Za dunění děl) opona._
+
+</section>

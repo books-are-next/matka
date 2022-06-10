@@ -3,6 +3,8 @@ title: První vydání knih Karla Čapka
 contentType: drama
 ---
 
+<section>
+
 **1917**
 
 – Boží muka
@@ -134,3 +136,5 @@ contentType: drama
 **1939**
 
 – posmrtně: Život a dílo skladatele Foltýna (torzo románu)
+
+</section>
