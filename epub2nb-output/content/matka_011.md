@@ -3,6 +3,8 @@ title: III
 contentType: drama
 ---
 
+<section>
+
 _Týž pokoj, ale všechny zbraně ze stěn i stojanů jsou odklizeny._
 
 **MATKA** _(snímá ze stěny poslední pár pistolí a zamyká je do zásuvky. Klíč bere k sobě)_: Tak. Já nechci, aby měl Toni na očích samé zbraně. _(Rozhlíží se.)_ Já to nechci. _(Jde k oknu a zavírá okenice.)_ A ven se taky dívat nebude. _(Rozsvítí vypinačem u dveří.)_ Není tu už nic? – _(Jde k rozhlasové skřínce.)_ A ty, ty už taky přestaneš mluvit. Toni nemusí vědět, co se děje venku. _(Váhá u rozhlasové skřínky.)_ A já – já to nepotřebuju vědět. Já už nechci nic slyšet. Mně už po ničem nic není. _(Váhá.)_ Nu vidíš, musíš mlčet. A chtěla bys mluvit, viď? Zase bys chtěla plést Tonimu hlavu, že? Nene, ty už nám tu křičet nebudeš. Hlásej si, co chceš, – ale tady ne. Tady ne. Tady jsem já. Už nebudeš mému Tonimu nic namlouvat – Nu, co tomu říkáš? _(Otočí knoflíkem rádia.)_ Tak co, ty –?
@@ -598,3 +600,5 @@ _(Ticho.)_
 **MATKA** _(strhne ze stěny pušku a podává ji oběma rukama Tonimu. S velkým gestem)_: Jdi!
 
 _Opona._
+
+</section>

@@ -3,6 +3,8 @@ title: I
 contentType: drama
 ---
 
+<section>
+
 _Otcův pokoj s okny dokořán. V průčelí otcova podobizna v důstojnické uniformě; dále zavěšené šavle, kordy, bambitky a pušky, čibuky, památky z koloniálních výprav, jako oštěpy a štíty, luky, šípy a jatagany, paroží, lebky antilop a jiné lovecké trofeje. Další stěny zabírají knihovny a vyřezávané skříně, stojan s řadou vyleštěných pušek, orientální textilie, mapy a zvířecí kůže. Vůbec pokoj je přeplněn mužským haraburdím: těžký psací stůl a na něm slovníky, glóbus, dýmky, těžítka ze šrapnelů, džbánky na tabák a podobné krámy; pohovka s tureckými polštáři, odřená křesla a taburety, arabský stolek se šachovnicí, stolek s cestovním gramofonem, na skříních vojenské čepice a přílby, a všude ještě nějaká exotická plastika, černošské masky a co se tak před dvaceti třiceti lety přinášelo z cest a z kolonií jako souvenirs. Všechno je však už na první pohled hodně zvetšelé a nečasové; vypadá to spíš jak rodinné muzeum než jako obývaný pokoj._
 
 _(Na pohovce s koleny pod bradou sedí Toni; má na kolenou opřenu velkou knihu jako podložku a píše něco na list papíru. Pak si to šeptem čte a taktuje si k tomu rukou; zavrtí hlavou, seškrtá něco a skanduje si potichu dál._
@@ -788,3 +790,5 @@ _(Ve dveřích plných denního světla stojí Kornel.)_
 **KORNEL**: Jiří totiž… Maminko! Ty to už víš?
 
 _Opona._
+
+</section>
