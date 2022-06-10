@@ -1,6 +1,6 @@
 ---
 title: ''
-contentType: prose
+contentType: drama
 ---
 
 ![Matka](./resources/obalka.jpg)

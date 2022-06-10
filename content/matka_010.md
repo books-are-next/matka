@@ -1,6 +1,6 @@
 ---
 title: II
-contentType: prose
+contentType: drama
 ---
 
 _Týž pokoj, ale přibyla rozhlasová skřínka._
