@@ -1,6 +1,6 @@
 ---
 title: První vydání knih Karla Čapka
-contentType: prose
+contentType: drama
 ---
 
 **1917**

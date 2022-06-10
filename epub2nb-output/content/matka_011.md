@@ -1,6 +1,6 @@
 ---
 title: III
-contentType: prose
+contentType: drama
 ---
 
 _Týž pokoj, ale všechny zbraně ze stěn i stojanů jsou odklizeny._

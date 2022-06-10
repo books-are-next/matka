@@ -1,6 +1,6 @@
 ---
 title: Život a doba spisovatele Karla Čapka v datech
-contentType: prose
+contentType: drama
 ---
 
 **1890**
