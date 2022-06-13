@@ -13,6 +13,7 @@ meta:
   modified: '2022-02-28T12:54:02.662Z'
   edition: beletrie
   publisherShort: mkp
+  isbn: 978-80-274-2503-7
 readingOrder:
   - promo.html
   - matka_005.html
