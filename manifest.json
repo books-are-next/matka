@@ -8,8 +8,8 @@
   "edition": "drama",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "capek-matka-07f7abb",
-  "revision": "07f7abb",
+  "identifier": "capek-matka-51c1c3a",
+  "revision": "51c1c3a",
   "readingOrder": [
     "promo.html",
     "matka_005.html",
@@ -22,11 +22,11 @@
     "matka_012.html",
     "matka_013.html",
     "matka_014.html",
-    "colophon.html"
+    "about.html"
   ],
   "generatedAt": {
-    "date": "Thu Jun 23 2022 10:15:06 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1655979306739
+    "date": "Thu Jul 07 2022 08:33:49 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1657182829470
   },
   "documents": [
     {
@@ -215,7 +215,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Život a doba spisovatele Karla Čapka v datech",
+          "name": "Život a doba spisovatele Karla Čapka v datech",
           "id": null,
           "children": []
         }
@@ -230,7 +230,7 @@
       "role": "chapter",
       "order": 10,
       "prev": "matka_013.html",
-      "next": "colophon.html",
+      "next": "about.html",
       "toc": [
         {
           "index": 0,
@@ -243,11 +243,11 @@
     },
     {
       "title": "Tiráž",
-      "file": "colophon.html",
+      "file": "about.html",
       "words": 130,
-      "chars": 876,
+      "chars": 875,
       "ideas": 17,
-      "role": "colophon",
+      "role": "about",
       "order": null,
       "prev": "matka_014.html",
       "next": null,
@@ -265,7 +265,7 @@
   "totals": {
     "all": {
       "words": 19379,
-      "chars": 107083,
+      "chars": 107082,
       "ideas": 1166
     },
     "chapters": {

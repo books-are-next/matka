@@ -65,7 +65,7 @@
             "filename": "matka_003.md",
             "xhtml": "matka_003.html",
             "id": 2,
-            "role": "colophon",
+            "role": "about",
             "listType": "plain",
             "inToc": false,
             "hungry": false,
@@ -77,7 +77,7 @@
             "filename": "matka_004.md",
             "xhtml": "matka_004.html",
             "id": 3,
-            "role": "colophon",
+            "role": "about",
             "listType": "plain",
             "inToc": false,
             "hungry": false,
@@ -219,7 +219,7 @@
             "filename": "matka_015.md",
             "xhtml": "matka_015.html",
             "id": 14,
-            "role": "colophon",
+            "role": "about",
             "listType": "plain",
             "inToc": false,
             "hungry": false,
@@ -404,6 +404,6 @@
       "user": "books-are-next",
       "repo": "matka"
     },
-    "generatedAt": 1655979095775
+    "generatedAt": 1657182176954
   }
 }

@@ -26,7 +26,7 @@ readingOrder:
   - matka_012.html
   - matka_013.html
   - matka_014.html
-  - colophon.html
+  - about.html
 tocBase:
   - id: section-1
     children:
