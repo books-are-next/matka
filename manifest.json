@@ -8,8 +8,8 @@
   "edition": "drama",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "capek-matka-26eae10",
-  "revision": "26eae10",
+  "identifier": "capek-matka-f0b7d9a",
+  "revision": "f0b7d9a",
   "readingOrder": [
     "promo.html",
     "matka_005.html",
@@ -25,8 +25,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Sat Oct 01 2022 15:59:45 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1664639985894
+    "date": "Tue Oct 04 2022 16:47:22 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1664902042567
   },
   "documents": [
     {
@@ -244,9 +244,9 @@
     {
       "title": "Tiráž",
       "file": "about.html",
-      "words": 130,
+      "words": 128,
       "chars": 876,
-      "ideas": 17,
+      "ideas": 15,
       "role": "about",
       "order": null,
       "prev": "matka_014.html",
@@ -264,9 +264,9 @@
   ],
   "totals": {
     "all": {
-      "words": 19379,
+      "words": 19377,
       "chars": 107083,
-      "ideas": 1166
+      "ideas": 1164
     },
     "chapters": {
       "words": 19244,
